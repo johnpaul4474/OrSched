@@ -117,7 +117,7 @@
                         <div class="col-7 border border-left-0 border-right-0 border-bottom-0">
                             <div class="text-center mt-1">
                                 <br>
-                                <h5 class="font-weight-bold">PAIN SCHEDULE</h5>
+                                <h5 class="font-weight-bold">PAIN LOGGER</h5>
                             </div>
                         </div>
                         <div class="col-5 form-inline">

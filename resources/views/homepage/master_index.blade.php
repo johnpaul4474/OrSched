@@ -87,7 +87,7 @@
                 <div class="col-md-4 mb-5">
                     <div class="card h-100">
                         <div class="card-body text-center">
-                            <h2 class="card-title">Pain Scheduler<a  href="/"></h2>
+                            <h2 class="card-title">Pain Logbook<a  href="/"></h2>
                             <i class="fa fa-user-md" style="font-size:90px;color:green"></i>
                         </div>
                         <div class="card-footer text-center" >
@@ -122,10 +122,10 @@
                 <div class="col-md-4 mb-5">
                     <div class="card h-100">
                         <div class="card-body text-center">
-                            <h2 class="card-title">Pain Scheduler<a  href="/painHome"></h2>
+                            <h2 class="card-title">Pain Logbook<a  href="/painHome"></h2>
                             <i class="fa fa-user-md" style="font-size:90px;color:green"></i>
                         </div>
-                        <div class="card-footer text-center" ><a class="btn btn-secondary btn-sm" href="painHome" >Go to Scheduler</a></div>
+                        <div class="card-footer text-center" ><a class="btn btn-secondary btn-sm" href="painHome" >Go to Logger</a></div>
                     </div>
                 </div>
                 @endif
