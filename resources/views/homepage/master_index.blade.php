@@ -37,7 +37,7 @@
             </div>
 
          
-                @if (App\Http\Controllers\LoggedUser::user_role()== 0 )
+                {{-- @if (App\Http\Controllers\LoggedUser::user_role()== 0 )
                 
 
                 <!-- Modal -->
@@ -96,7 +96,7 @@
                     </div>
                 </div>
 
-                @else
+                @else --}}
 
                 <div class="row gx-4 gx-lg-5">
                 <div class="col-md-4 mb-5">
@@ -128,7 +128,7 @@
                         <div class="card-footer text-center" ><a class="btn btn-secondary btn-sm" href="painHome" >Go to Logger</a></div>
                     </div>
                 </div>
-                @endif
+                {{-- @endif --}}
                
             </div>
         </div>
